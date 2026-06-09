@@ -5,7 +5,7 @@ To write a C program to remove duplicates in an array.
 
 ## Algorithm:
 1. Start
-2. Input the number of elements `n`.  
+2. Input the number of elements `n`.   
 3. Input `n` elements into the array.  
 4. Create an empty temporary array `temp` to store unique elements.  
 5. Initialize an index variable `index = 0`.  
