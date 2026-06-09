@@ -7,7 +7,7 @@ To write a C program to find a square of number using function with arguments wi
 
 1. Start 
 2. Define a function `findSquare(num)` that takes an integer argument.  
-3. Inside the function, compute `num * num` and display the result.  
+3. Inside the function, compute `num * num` and display the result.   
 4. In the `main()` function:  
    - Accept an integer input from the user.  
    - Call `findSquare(number)` with the input value.  
