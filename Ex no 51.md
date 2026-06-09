@@ -7,7 +7,7 @@ To write a C program to reverse a string.
 1. Start.
 2. Accept a string from the user.
 3. Determine the length of the string.
-4. Initialize two pointers:- One at the beginning (i = 0).
+4. Initialize two pointers:- One at the beginning (i = 0). 
 5. One at the end (j = length - 1).
 6. Swap the characters at positions i and j.
 7. Increment i and decrement j.
